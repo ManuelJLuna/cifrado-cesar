@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(77, 50, 123);
+    color: rgb(240, 240, 240);
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 25vh auto;
+    text-align: center;
+    background-color: rgb(122, 85, 158);
+    width: 35vw;
+    padding: 5px;
+    box-shadow: 10px 10px 55px rgb(59, 34, 87);
+    border: 2px solid rgba(85, 48, 124, 0.24);
+    border-radius: 8px;
+}
+h1{
+    font-size: 45px;
+    margin: 10px 0;
+}
+input{
+    margin: auto;
+    display: block;
+    background-color: rgb(85, 48, 124);
+    border: 0;
+    width: 75%;
+    height: 25px;
+    color: rgb(240, 240, 240);
+    padding: 5px;
+    font-size: 20px;
+}
+#changedLetter{
+    margin: 35px 8% 20px 0;
+    padding: 0;
+    width: 65%;
+    display: inline;
+}
+p{
+    display: inline-block;
+    margin: 20px 2% 35px 0;
+    padding: 10px;
+}
